@@ -27,7 +27,7 @@ Constraints:
 
 ## Performance Outcomes
 
-### 1.Comparison of annual returns of Max_SR portfolio vs S&P500
+### 1. Comparison of annual returns of Max_SR portfolio vs S&P500
 ![Comparison of annual returns of Max_SR portfolio vs S&P500](./max_sr%20vs%20S%26P500%20means.png)
 
 </br>
