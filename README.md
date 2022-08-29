@@ -42,4 +42,4 @@ When translated to % returns, we have 5.3422 (Max_SR) vs 3.5531 (S&P500).
 </br>
 
 ## Conclusion
-Constructing a portfolio that maximizes sharpe ratio using the method above, outperforms the S&P500 by a significant margin whilst having a lower mean sharpe ratio. 
+Constructing a portfolio that maximizes sharpe ratio using the method above, outperforms the S&P500 by a significant margin in terms of log annual mean returns but underperforms by having an overall lower mean sharpe ratio. 
